@@ -1,0 +1,4 @@
+# python logical operators exercise
+a = 5
+result = a > 2 and a < 10 #logical operaters
+print("result of",a,">2 and",a,"<10 is",result)
